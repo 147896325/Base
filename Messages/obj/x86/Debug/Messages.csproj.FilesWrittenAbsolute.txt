@@ -1,0 +1,5 @@
+/home/cedric/dev/Dbot/Base/Messages/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/cedric/dev/Dbot/Base/Messages/bin/Debug/Messages.dll.mdb
+/home/cedric/dev/Dbot/Base/Messages/bin/Debug/Messages.dll
+/home/cedric/dev/Dbot/Base/Messages/obj/x86/Debug/Messages.dll
+/home/cedric/dev/Dbot/Base/Messages/obj/x86/Debug/Messages.dll.mdb

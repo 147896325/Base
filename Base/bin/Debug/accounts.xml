@@ -1,0 +1,5 @@
+<?xml version='1.0'?>
+<!-- Renseignez vos comptes ici, le server s'identifie avec son ID -->
+<Accounts>
+	<Account login="LOL" password="LOL" server="602"></Account>
+</Accounts>

@@ -1,0 +1,9 @@
+/home/cedric/dev/Dbot/Base/Base/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/cedric/dev/Dbot/Base/Base/bin/Debug/Base.exe.mdb
+/home/cedric/dev/Dbot/Base/Base/bin/Debug/Base.exe
+/home/cedric/dev/Dbot/Base/Base/obj/x86/Debug/Base.exe
+/home/cedric/dev/Dbot/Base/Base/obj/x86/Debug/Base.exe.mdb
+/home/cedric/dev/Dbot/Base/Base/bin/Debug/Socket.dll
+/home/cedric/dev/Dbot/Base/Base/bin/Debug/Socket.dll.mdb
+/home/cedric/dev/Dbot/Base/Base/bin/Debug/Messages.dll
+/home/cedric/dev/Dbot/Base/Base/bin/Debug/Messages.dll.mdb
